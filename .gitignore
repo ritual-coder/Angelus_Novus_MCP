@@ -10,14 +10,3 @@ verify_image_pipeline.py
 test_downloads/
 *.log
 .env
-
-# Exclude unrelated projects/files
-General_MCP_Framework/
-Internet History Analysis/
-Character.pdf
-Personality_Framework.pdf
-Profile.pdf
-MCP_PERSONALITY_FRAMEWORK_PLAN.md
-available_functions.txt
-python_version_note.txt
-TODAY_WORK_SUMMARY.md
