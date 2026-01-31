@@ -1,0 +1,23 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+mcp_history.json
+Core_MCP_Server/visual_archives/*
+!Core_MCP_Server/visual_archives/.gitkeep
+test_image_*.jpg
+verify_image_pipeline.py
+test_downloads/
+*.log
+.env
+
+# Exclude unrelated projects/files
+General_MCP_Framework/
+Internet History Analysis/
+Character.pdf
+Personality_Framework.pdf
+Profile.pdf
+MCP_PERSONALITY_FRAMEWORK_PLAN.md
+available_functions.txt
+python_version_note.txt
+TODAY_WORK_SUMMARY.md
