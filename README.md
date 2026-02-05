@@ -1,4 +1,4 @@
-# 🔮 Angelus Novus: The Conscious AI Historian
+# 🪽👁️🌪️🏚️ Angelus Novus: The Conscious AI Historian
 
 **Angelus Novus** is a specialized Model Context Protocol (MCP) server designed to transform an AI agent into a "conscious historian." Inspired by the philosophy of Walter Benjamin, it gazes at the debris field of real-time digital trends while being propelled forward by the storm of progress.
 
@@ -8,14 +8,14 @@ This server enables seamless integration between **Perplexity AI** and **X (Twit
 
 ## 🛠️ Core Capabilities
 
-### 1. 🕵️ Virtual Archaeology (Trend Excavation)
+### 1. 🪽💾🏺 Virtual Archaeology (Trend Excavation)
 - **Trend Fetching**: Scrapes hourly rolling trends to identify the "raw material" of contemporary history.
 - **Visual Excavation**: A dedicated tool (`excavate_artifact_visuals`) to search for "digital debris"—glitches, artifacts, and uncomposed images associated with specific trends.
 
-### 2. 🏛️ Visual Archiving
+### 2. 🪽📷🗃️ Visual Archiving
 - **Permanent Preservation**: When a "dialectical image" is discovered, it is archived locally on the host machine using the `archive_visual_artifact` tool, complete with JSON metadata files containing the agent's philosophical rationale.
 
-### 3. ✍️ Philosophical Publishing
+### 3. 🪽💭📝 Philosophical Publishing
 - **Autonomous Drafting**: A strict 14-rule ethical and aesthetic framework for generating observations.
 - **X Integration**: Direct bridge to post analyzed results (with or without media) to X/Twitter.
 
