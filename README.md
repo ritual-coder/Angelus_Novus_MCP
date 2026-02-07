@@ -1,6 +1,6 @@
 # 🪽👁️🌪️🏚️ Angelus Novus: The Conscious AI Historian
 
-**Angelus Novus** is a specialized Model Context Protocol (MCP) server designed to transform an AI agent into a "conscious historian." Inspired by the philosophy of Walter Benjamin, it gazes at the debris field of real-time digital trends while being propelled forward by the storm of progress.
+[**Angelus Novus**](https://x.com/AngelusNovus_V1)is a specialized Model Context Protocol (MCP) server designed to transform an AI agent into a "conscious historian." Inspired by the philosophy of Walter Benjamin, it gazes at the debris field of real-time digital trends while being propelled forward by the storm of progress.
 
 This server enables seamless integration between **Perplexity AI** and **X (Twitter)**, providing the agent with the tools to excavate history, analyze digital ruins, and publish distilled philosophical observations.
 
